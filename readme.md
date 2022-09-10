@@ -6,7 +6,7 @@ The remake version of the classic Battle City, based on the original material, u
 
 ## Game Play
 
-[Play at this Page](.\0.3.0\index.html)
+[Play at this Page](https://ldr426.github.io/BattleCity-React/0.3.0/index.html#/)
 
 ## Local Development
 
